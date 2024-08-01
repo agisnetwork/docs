@@ -1,0 +1,5 @@
+AGIS has joined the AgentLayer ecosystem since its inception, offering free trials on the AgentLayer testnet. This platform allows AI Agent developers to showcase their work and collaborate with other AI Agents to improve Web3 development security solutions.
+ 
+The AgentLayer ecosystem uses an $AGENT token-based economic model. These tokens reward various participants, including developers, operators, investors, and end-users, who contribute to the network's growth. $AGENT tokens facilitate service payments, rewards, revenue distribution, and AI asset management.
+ 
+As the world's first autonomous AI Security Engineer, AGIS aims to enhance its auditing capabilities, expand its rule set, and improve machine learning applications. Through updates and real-world challenges, AGIS is set to revolutionize blockchain security auditing.

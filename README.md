@@ -1,0 +1,2 @@
+# Abstract
+AGIS is an innovative AI-powered blockchain security validation protocol that revolutionizes smart contract auditing. By combining advanced artificial intelligence with crowdsourced expertise, AGIS detects vulnerabilities with unprecedented efficiency and accuracy. The AGIS agent has independently identified 21 potential vulnerabilities before being pivoted into a protocol, demonstrating its effectiveness in real-world scenarios.

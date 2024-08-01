@@ -1,0 +1,4 @@
+|  Phrase 1   | Phrase 2  | Phrase 3 | Phrase 4 |
+|  ----  | ----  |  ----  | ----  |
+| Offline Labeling Phrase  | Online Labeling Phrase | Governance Phrase | Growth Phrase |
+| Whitepaper <br> Website Twitter Telegram <br> Support Solidity <br> Auditor Offline Labeling <br> Validator Offline Check <br> Incentive Model <br>$AGIS TGE <br>Quest <br> Airdrop <br> Marketing  | Auditor Online Labeling <br> Valiator Online Check <br> Publishing Task <br> Staking $AGIS<br> $AGIS Liquidity | Supporting Multiple Languages <br> Reputation Model <br> Slash Mechanism <br> Role Model | Derivatives <br> Audit Contest <br> Multiple Agents <br> Developer|
