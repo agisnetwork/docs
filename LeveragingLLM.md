@@ -12,8 +12,8 @@ The core of AGIS Platform is the AGIS Agent, an intelligent agent that interacts
 2. PeripheryPrompt: Sets audit context, simulating expert thinking.
 3. VulCheckPrompt: Performs secondary confirmation of vulnerabilities.
 PromptAssembler combines these components for efficient LLM interaction.
-# Detection Workflow
 
+# Detection Workflow
 ![Detection Workflow](./img/DetectionWorkflow.png "DetectionWorkflow")
 
 <br>
