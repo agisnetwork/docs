@@ -13,6 +13,7 @@ The core of AGIS Platform is the AGIS Agent, an intelligent agent that interacts
 1. CorePrompt: Defines core audit tasks, focusing on logical errors.
 2. PeripheryPrompt: Sets audit context, simulating expert thinking.
 3. VulCheckPrompt: Performs secondary confirmation of vulnerabilities.
+
 PromptAssembler combines these components for efficient LLM interaction.
 
 # Detection Workflow
@@ -26,6 +27,7 @@ AGIS's vulnerability detection workflow showcases its innovative approach:
 3. Leverages LLM’s capabilities for continuous scanning
 4. Employs automated validation to confirm vulnerabilities and reduce false positives
 5. Outputs final results
+
 This streamlined process combines AI efficiency with validation mechanisms for accurate smart contract auditing.
 # Iterative Optimization & Privacy Protection
 AGIS features two key technological highlights:
@@ -40,8 +42,11 @@ AGIS features two key technological highlights:
   - Temporarily stores smart contracts for re-scanning
   - Allows immediate deletion by users or auto-deletes after 24 hours
   - Implements additional security measures to protect user privacy
+
 Overall, AGIS represents a major advancement in AI-driven code auditing for blockchain security. It combines:
+
 3. Advanced language model technology
 4. Carefully designed prompt engineering
 5. Multi-layer verification mechanisms
+
 These features enable AGIS to provide innovative solutions for smart contract security. As the system evolves, it has the potential to become a crucial tool in blockchain security, contributing to the development of more secure and reliable decentralized systems.
