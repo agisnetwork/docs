@@ -4,7 +4,7 @@ AGIS leverages advanced large language models like GPT-4,  Llama 3 and proprieta
 3. Analyze code for logical flaws and economic risks
 By integrating AI capabilities, AGIS aims to revolutionize smart contract auditing in the Web3 ecosystem, offering improved security and reliability for blockchain projects.
 # Building Blocks of AGIS Platform
-![BuildingBlocksofAGISPlatform.png](./img/BuildingBlocksofAGISPlatform.png "BuildingBlocksofAGISPlatform")
+![Building Blocks of AGIS Platform](./img/BuildingBlocksofAGISPlatform.png "BuildingBlocksofAGISPlatform")
 
 <br>
 The core of AGIS Platform is the AGIS Agent, an intelligent agent that interacts with external systems via a secure HTTP interface. It uses private keys and a unique ID for authentication. The system employs three key prompt components:
@@ -13,7 +13,8 @@ The core of AGIS Platform is the AGIS Agent, an intelligent agent that interacts
 3. VulCheckPrompt: Performs secondary confirmation of vulnerabilities.
 PromptAssembler combines these components for efficient LLM interaction.
 # Detection Workflow
-![DetectionWorkflow](./img/DetectionWorkflow.png "DetectionWorkflow")
+
+![Detection Workflow](./img/DetectionWorkflow.png "DetectionWorkflow")
 
 <br>
 AGIS's vulnerability detection workflow showcases its innovative approach:
