@@ -1,4 +1,5 @@
 AGIS leverages advanced large language models like GPT-4,  Llama 3 and proprietary security foundation model TrustLLM to enhance blockchain security. The system utilizes these AI technologies to:
+
 1. Perform comprehensive smart contract audits
 2. Detect vulnerabilities with high efficiency and accuracy
 3. Analyze code for logical flaws and economic risks
@@ -8,6 +9,7 @@ By integrating AI capabilities, AGIS aims to revolutionize smart contract auditi
 
 <br>
 The core of AGIS Platform is the AGIS Agent, an intelligent agent that interacts with external systems via a secure HTTP interface. It uses private keys and a unique ID for authentication. The system employs three key prompt components:
+
 1. CorePrompt: Defines core audit tasks, focusing on logical errors.
 2. PeripheryPrompt: Sets audit context, simulating expert thinking.
 3. VulCheckPrompt: Performs secondary confirmation of vulnerabilities.
@@ -18,6 +20,7 @@ PromptAssembler combines these components for efficient LLM interaction.
 
 <br>
 AGIS's vulnerability detection workflow showcases its innovative approach:
+
 1. Receives smart contract code
 2. Uses context for vulnerability scanning
 3. Leverages LLM’s capabilities for continuous scanning
@@ -26,6 +29,7 @@ AGIS's vulnerability detection workflow showcases its innovative approach:
 This streamlined process combines AI efficiency with validation mechanisms for accurate smart contract auditing.
 # Iterative Optimization & Privacy Protection
 AGIS features two key technological highlights:
+
 1. Iterative Optimization:
   - Performs multiple analysis cycles on each code sample
   - Adjusts prompt strategy based on previous results
