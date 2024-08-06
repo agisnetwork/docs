@@ -4,10 +4,10 @@
 ![tokenomics](./img/tokenomics.png "tokenomics")
 - 55% Ecosystem/Community
 - 10% AgentLayer Token Holders (2.5% reserved for APGN Holders)
-- 20% MetaTrust 
+- 15% MetaTrust 
+- 10% Investor
 - 5% Team
 - 5% Treasury/Foundation Reserve
-- 5% Investor
 
 ## Protocol Revenue
 - Platform Fees: Users pay $AGIS for scanning services.
