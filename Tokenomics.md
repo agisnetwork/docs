@@ -3,14 +3,19 @@
 ## Distribution
 ![tokenomics](./img/tokenomics.png)
 - 55% Ecosystem/Community
-- 10% AgentLayer Token Holders (2.5% reserved for APGN Holders)
-- 15% MetaTrust 
+- 25% Early Contributor
 - 10% Investor
 - 5% Team
 - 5% Treasury/Foundation Reserve
 
-## Protocol Revenue
-- Platform Fees: Users pay $AGIS for scanning services.
-- Task Publishing: Developers create audit tasks and allocate rewards for vulnerability discovery and validation.
-- Staking Mechanism: Auditors and validators stake $AGIS to prevent malicious behavior.
-- Reward Distribution: Fair compensation based on contribution accuracy and value.
+## AGIS Utility
+1. Platform Fee: Users pay $AGIS for smart contract vulnerability scanning.
+2. Task Publishing:
+  - Users create audit tasks and allocate $AGIS rewards
+  - Auditors and validators earn $AGIS for labeling scan results
+  - Rewards based on accuracy and contribution value
+  - Malicious actors risk $AGIS stake slashing
+3. Staking/Slashing Mechanism: Auditors and validators stake $AGIS to prevent malicious behavior.
+4. Liquidity Incentives: Users providing $AGIS liquidity on DeFi protocols earn rewards, strengthening the ecosystem.
+5. Discount for task scanning
+6. Free task scanning, worth $50, for a $AGIS long-term whale staker
