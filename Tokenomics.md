@@ -1,7 +1,7 @@
 # Tokenomics
 
 ## Distribution
-![tokenomics](./img/tokenomics.png "tokenomics")
+![tokenomics](./img/tokenomics.png)
 - 55% Ecosystem/Community
 - 10% AgentLayer Token Holders (2.5% reserved for APGN Holders)
 - 15% MetaTrust 
